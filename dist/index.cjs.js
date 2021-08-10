@@ -2006,11 +2006,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pastafinance.com",
+                href: "https://exchange.nsolar.com",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pastafinance.com/#/pool",
+                href: "https://exchange.nsolar.com/#/pool",
             },
         ],
     },
@@ -2047,7 +2047,7 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/pastafinance/",
+                href: "https://github.com/nsolar/",
             },
             {
                 label: "Docs",
@@ -2067,14 +2067,14 @@ var socials = [
         items: [
             {
                 label: "Announcements",
-                href: "https://t.me/PastaFinanceAnnouncements",
+                href: "https://t.me/nsolarAnnouncements",
             }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pastafinance",
+        href: "https://twitter.com/nsolar",
     },
 ];
 var MENU_HEIGHT = 64;
