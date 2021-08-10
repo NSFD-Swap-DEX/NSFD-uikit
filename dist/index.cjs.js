@@ -1872,8 +1872,8 @@ var Icon$h = function (props) {
 
 var Logo$1 = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { width: "55", height: "26", href: isDark ? 'images/egg/LogoTextNewDark.png' : 'images/egg/LogoTextNewWhite.png' })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 154 60" }, props),
+        React__default['default'].createElement("image", { width: "104", height: "60", href: isDark ? 'images/egg/LogoTextNewDark.png' : 'images/egg/LogoTextNewWhite.png' })));
 };
 
 var Icon$g = function (props) {
@@ -1965,7 +1965,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     HelmetIcon: Icon$7
 });
 
-var MenuButton = styled__default['default'](Button)(templateObject_1$d || (templateObject_1$d = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
+var MenuButton = styled__default['default'](Button)(templateObject_1$d || (templateObject_1$d = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n  margin: auto;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n  margin: auto;\n"])), function (_a) {
     var theme = _a.theme;
     return theme.colors.text;
 });
