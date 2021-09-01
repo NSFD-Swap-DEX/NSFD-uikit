@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.nsolar.com",
+        href: "https://swap.nsolarfarmdefi.com",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.nsolar.com/#/pool",
+        href: "https://swap.nsolarfarmdefi.com/#/pool",
       },
     ],
   },
@@ -72,14 +72,14 @@ export const socials = [
     items: [
       {
         label: "Announcements",
-        href: "https://t.me/nsolarAnnouncements",
+        href: "https://t.me/nsolarfarmdefi",
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/nsolar",
+    href: "https://twitter.com/nsolarfarmdefi",
   },
 ];
 
